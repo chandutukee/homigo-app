@@ -1,2 +1,2 @@
-# homigo-home
- 
+# homigo
+ Next js React typescript project
